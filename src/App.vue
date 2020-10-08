@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="font-sans antialiased">
    <Header />
    <Content />
    <Footer />

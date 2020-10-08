@@ -5,7 +5,7 @@
       <span class="italic">lorius</span>
     </div>
     <div class="select-none ">
-      <ul class="flex">
+      <ul class="flex ">
         <li
           class="p-1 mx-2 duration-150 ease-in border-b border-transparent cursor-pointer tranistion hover:border-indigo-400"
         >
